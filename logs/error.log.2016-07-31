@@ -1,0 +1,4 @@
+2016-07-31 16:08:13  [ com.longteng.main.RunTest.main():14522 ] - [ ERROR ]  发送邮件异常:javax.mail.AuthenticationFailedException: 535 Error: ?????????¨?????????ê?é????: http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=28&&no=1001256
+
+2016-07-31 16:09:44  [ com.longteng.main.RunTest.main():6090 ] - [ ERROR ]  发送邮件异常:javax.mail.AuthenticationFailedException: 535 Error: ?????????¨?????????ê?é????: http://service.mail.qq.com/cgi-bin/help?subtype=1&&id=28&&no=1001256
+
